@@ -1,3 +1,4 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # Game-Commerce 🧀🛒
 
 Bem-vindo ao Game-Commerce, onde a tradição centenária dos queijos de Minas Gerais encontra a inovação tecnológica! 
