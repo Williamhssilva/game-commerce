@@ -23,7 +23,7 @@ Prepare-se para uma experiência que mistura o melhor da tecnologia com o sabor 
 - CSS modular para estilização
 
 ## 🏗️ Estrutura do Projeto
-
+```
 game-commerce/
 │
 ├── frontend/
@@ -35,7 +35,7 @@ game-commerce/
 │ └── public/
 │
 └── backend/ (em desenvolvimento)
-
+```
 
 ## 🚀 Como Executar
 
