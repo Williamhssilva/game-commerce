@@ -1,0 +1,30 @@
+.confirmacao {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .confirmacao ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .confirmacao li {
+    margin-bottom: 10px;
+  }
+  
+  .confirmacao address {
+    margin-top: 20px;
+    font-style: normal;
+  }
+  
+  .confirmacao a {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+  }

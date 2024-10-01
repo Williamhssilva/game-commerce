@@ -1,0 +1,25 @@
+.cave {
+    padding: 20px;
+  }
+  
+  .cave-prateleiras {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .cave-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .cave-item button {
+    margin-top: 10px;
+    padding: 5px 10px;
+    background-color: #ff4d4d;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }

@@ -1,0 +1,67 @@
+.prateleira-usuario {
+    display: flex;
+    overflow-x: auto;
+    padding: 20px 10px;
+    background: linear-gradient(to bottom, #c19a6b 0%, #a67c52 100%);
+    margin-bottom: 60px; /* Espaço para o footer */
+    min-height: 120px;
+    border-top: 2px solid #8B4513;
+    position: relative;
+    border-radius: 10px 10px 0 0;
+}
+
+.prateleira-usuario::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: 
+        repeating-linear-gradient(
+            90deg,
+            rgba(255,255,255,0.05) 0px,
+            rgba(255,255,255,0.05) 2px,
+            transparent 2px,
+            transparent 20px
+        ),
+        repeating-linear-gradient(
+            0deg,
+            rgba(255,255,255,0.05) 0px,
+            rgba(255,255,255,0.05) 2px,
+            transparent 2px,
+            transparent 20px
+        );
+    pointer-events: none;
+}
+
+.queijo-container {
+    position: relative;
+    margin-right: 10px;
+}
+
+.remover-queijo {
+    position: absolute;
+    top: -10px;
+    right: -10px;
+    background-color: rgba(255, 0, 0, 0.7);
+    color: white;
+    border: none;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    font-size: 12px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.prateleira-vazia {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgba(255,255,255,0.7);
+    font-style: italic;
+}
