@@ -41,7 +41,7 @@ game-commerce/
 
 1. Clone este repositório
    ```
-   git clone https://github.com/seu-usuario/game-commerce.git
+   git clone https://github.com/Williamhssilva/game-commerce.git
    ```
 2. Navegue até o diretório do frontend
    ```
