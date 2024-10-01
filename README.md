@@ -1,10 +1,10 @@
-# Game Commerce 🧀🛒
+# Game-Commerce 🧀🛒
 
-Bem-vindo ao Game Commerce, onde a tradição centenária dos queijos de Minas Gerais encontra a inovação tecnológica! 
+Bem-vindo ao Game-Commerce, onde a tradição centenária dos queijos de Minas Gerais encontra a inovação tecnológica! 
 
 Nascido nas terras queijeiras de Medeiros, MG, e inspirado por mais de um século de tradição familiar na arte da produção de queijos, este projeto é mais do que um simples e-commerce. É uma ponte entre o sabor artesanal de nossa terra e o mundo digital.
 
-Aqui, cada linha de código carrega o aroma dos queijos curados nas prateleiras de madeira, cada funcionalidade ecoa o cuidado de gerações de produtores. Desenvolvido como um projeto educacional, o Game Commerce não apenas demonstra conceitos modernos de desenvolvimento web, mas também celebra e preserva uma herança cultural deliciosa.
+Aqui, cada linha de código carrega o aroma dos queijos curados nas prateleiras de madeira, cada funcionalidade ecoa o cuidado de gerações de produtores. Desenvolvido como um projeto educacional, o Game-Commerce não apenas demonstra conceitos modernos de desenvolvimento web, mas também celebra e preserva uma herança cultural deliciosa.
 
 Prepare-se para uma experiência que mistura o melhor da tecnologia com o sabor inigualável dos queijos artesanais Canastra. Bem-vindo à nossa Cave Digital!
 
